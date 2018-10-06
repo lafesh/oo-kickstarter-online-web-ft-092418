@@ -3,6 +3,8 @@ def Project
   
   def initialize
     
+    @backers = []
+    
   end 
   
 end 
